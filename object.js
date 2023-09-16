@@ -1,2 +1,2 @@
-let obj = { name: "Akash" };
+let obj = { name: "Akash", lastName: "Kokare" };
 console.log(obj);
